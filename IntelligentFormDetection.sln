@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelligentFormDetection", "IntelligentFormDetection\IntelligentFormDetection.csproj", "{0A18B43F-240A-4382-9FF0-E3E0DF77C4C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A18B43F-240A-4382-9FF0-E3E0DF77C4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A18B43F-240A-4382-9FF0-E3E0DF77C4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A18B43F-240A-4382-9FF0-E3E0DF77C4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A18B43F-240A-4382-9FF0-E3E0DF77C4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE376191-32F0-4E47-B08D-1AFB76BE9F16}
+	EndGlobalSection
+EndGlobal
